@@ -1,1 +1,1 @@
-# invoice-management-solution
+# A full stack project. 
